@@ -4,7 +4,7 @@
 The frontend dashboard interface for flare-clips, built to manage gameplay clips, video storage, and serverless API interactions. 
 
 ## Architecture Overview
-
+````
 [ Browser Dashboard ] (manager.suriyah.dev)
        │
        ├── (GET / DELETE with x-api-key)
@@ -13,7 +13,7 @@ The frontend dashboard interface for flare-clips, built to manage gameplay clips
        │
        ▼
 [ Cloudflare R2 Storage ] (vices-clips)
-
+````
 ## Tech Stack
 * Framework: Vite + JavaScript
 * Styling: Custom CSS / Minimalist Dark Theme
