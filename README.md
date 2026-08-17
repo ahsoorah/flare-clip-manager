@@ -1,3 +1,4 @@
+````
 # flare-clips-manager
 
 The frontend dashboard interface for flare-clips, built to manage gameplay clips, video storage, and serverless API interactions. 
@@ -32,3 +33,4 @@ The frontend dashboard interface for flare-clips, built to manage gameplay clips
 
 4. Run the development server:
    npm run dev
+````
