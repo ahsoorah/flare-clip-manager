@@ -22,10 +22,10 @@ The frontend dashboard interface for flare-clips, built to manage gameplay clips
 ## Getting Started Locally
 
 1. Clone the repository:
-   ````
+````
    git clone [https://github.com/ahsoorah/flare-clip-manager.git](https://github.com/ahsoorah/flare-clip-manager.git)
    cd flare-clip-manager
-
+````
 2. Install dependencies:
 ````
    npm install
