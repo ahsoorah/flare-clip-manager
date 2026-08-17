@@ -21,14 +21,14 @@ The frontend dashboard interface for flare-clips, built to manage gameplay clips
 ## Getting Started Locally
 
 1. Clone the repository:
-   git clone https://github.com/ahsoorah/flare-clip-manager.git
-   cd flare-clip-manager
+       git clone https://github.com/ahsoorah/flare-clip-manager.git
+       cd flare-clip-manager
 
-2. Install dependencies:
-   npm install
+3. Install dependencies:
+       npm install
 
-3. Create your local environment file based on the template:
-   cp .env.example .env
+4. Create your local environment file based on the template:
+       cp .env.example .env
 
-4. Run the development server:
-   npm run dev
+5. Run the development server:
+       npm run dev
