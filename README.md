@@ -12,7 +12,7 @@ The frontend dashboard interface for flare-clips, built to manage gameplay clips
 [ Cloudflare Worker API ] (api.suriyah.dev)
        │
        ▼
-[ Cloudflare R2 Storage ] (vice-clips)
+[ Cloudflare R2 Storage ] (s-clips)
 ````
 ## Tech Stack
 * Framework: Vite + JavaScript
