@@ -6,7 +6,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/r2-clips': {
-        target: 'https://clips.suriyah.dev',
+        target: 'https://clips.yourdomain.com',
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/r2-clips/, '')
       }
