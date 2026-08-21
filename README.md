@@ -1,15 +1,15 @@
 
 # flare-clips-manager
 
-The frontend dashboard interface for flare-clips, built to manage gameplay clips, video storage, and serverless API interactions. 
+The frontend dashboard interface template for flare-clips, built to manage gameplay clips, video storage, and serverless API interactions. 
 
 ## Architecture Overview
 ````
-[ Browser Dashboard ] (manager.suriyah.dev)
+[ Browser Dashboard ] (manager.yourdomain.com)
        │
        ├── (GET / DELETE with x-api-key)
        ▼
-[ Cloudflare Worker API ] (api.suriyah.dev)
+[ Cloudflare Worker API ] (api.yourdomain.com)
        │
        ▼
 [ Cloudflare R2 Storage ] (s-clips)
@@ -23,7 +23,7 @@ The frontend dashboard interface for flare-clips, built to manage gameplay clips
 
 1. Clone the repository:
 ````
-   git clone https://github.com/ahsoorah/flare-clip-manager.git
+   git clone https://github.com/suriyahs/flare-clip-manager.git
    cd flare-clip-manager
 ````
 2. Install dependencies:
