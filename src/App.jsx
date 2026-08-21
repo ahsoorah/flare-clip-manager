@@ -9,7 +9,7 @@ export default function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [authError, setAuthError] = useState('');
 
-  const WORKER_URL = 'https://api.suriyah.dev';
+  const WORKER_URL = 'https://api.yourdomain.com';
 
   const handleLogin = async (e) => {
     e.preventDefault();
